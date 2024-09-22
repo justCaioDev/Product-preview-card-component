@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import ProductPreviewCard from "../components/ProductPreviewCard"
 
-const AppContainer = styled.div `
+const AppContainer = styled.main `
     
     width: 100%;
     height: 100%;
