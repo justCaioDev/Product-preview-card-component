@@ -49,7 +49,7 @@ const PriceContainer = styled.div `
 const Title = styled.h1 `
     font-family: 'Fraunces', serif;
     font-size: 2.25rem;
-    font-weight: 900;
+    font-weight: 700;
     line-height: 1;
     color: hsl(212, 21%, 14%);
     @media screen and (max-width: 600px) {
@@ -87,7 +87,7 @@ const Price = styled.p `
 `
 
 const OldPrice = styled.p `
-    font-size: 1.25rem;
+    font-size:  0.875rem;
     font-weight: 500;
     text-decoration: line-through;
 `
